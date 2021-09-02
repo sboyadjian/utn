@@ -83,7 +83,5 @@ int main()
     cout << "Transpuesta" << endl;
     transpuesta(matriz, dim5);
     
-    cin.ignore();
-    cin.get();
     return 0;
 }
